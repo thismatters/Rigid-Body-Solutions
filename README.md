@@ -4,7 +4,7 @@ Manually solving the problems in Chapter 4 can be tedious and error-prone, moreo
 
 ## Using this code
 
-This was written in Python2 (2.7.3 probably), and it uses NumPy and Sympy pretty heavily to do the numerical and symbolic manipulation. Both of those libraries are inlcuded in (SciPy)[https://scipy.org/]. So you will need to install that before using this code. Python + SciPy are a pretty good (and free!) replacement for MATLAB, so getting comfortable working with them could be a real benefit to your career!
+This was written in Python2 (2.7.3 probably), and it uses NumPy and Sympy pretty heavily to do the numerical and symbolic manipulation, some codes use Matplotlib to make pretty pictures. All of those libraries are inlcuded in (SciPy)[https://scipy.org/]. So you will need to install that before using this code. Python + SciPy are a really great (and free!) replacement for MATLAB, so getting comfortable working with them could be a real benefit to your career!
 
 There are two libraries included with this code `rigidbodies.py` and `mdof.py`. These allow for calculations about rigid body motion and multiple degree of freedom motion respectively. I originally chose to not release these only because it would be really easy to *cheat* and to try to pass of my code as your code on assignments and projects. Please don't do this. Use my code to check your work and to learn how to leverage software to make your life easier.
 
@@ -14,7 +14,7 @@ Enjoy, and pay it forward!
 
 ## Work to be done
 
-As it is I consider this work complete, however for this code to be truly useful for a student it would be more verbose (and maybe better documented). If you want to do this work I would be happy to make you a contributor.
+As it is I consider this work complete, however for this code to be truly useful for a student it would be more verbose (and maybe better documented). If I were to write this code today I would use Python3, so I would be open to somebody porting it (which should really be pretty trivial).  If you want to do this work I would be happy to make you a contributor.
 
 ## Contributing
 
