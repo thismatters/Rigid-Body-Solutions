@@ -1,7 +1,4 @@
 from sympy import * 
-import os, sys
-lib_path = os.path.abspath('/home/paul/Tutoring/libpy')
-sys.path.append(lib_path)
 init_printing()
 from mdof import *
 

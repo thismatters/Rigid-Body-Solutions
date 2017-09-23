@@ -1,4 +1,3 @@
-import os, sys
 from rigidbodies import *
 import numpy as np
 
